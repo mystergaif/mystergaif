@@ -3,20 +3,20 @@
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
 <div align="left">
-  <table border="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td bgcolor="#282828">
-        <font color="#ebdbb2" face="Courier New, monospace">
-          <p>
-            <font color="#fb4934">●</font> <font color="#fabd2f">●</font> <font color="#b8bb26">●</font><br>
-            <b><font color="#b8bb26">guest@gafirchick</font></b>:<b><font color="#83a598">~</font></b>$ cat contact.json
-          </p>
-          <pre align="left">
-{
-  "status": "<font color="#b8bb26">active</font>",
-  "email":  "<font color="#83a598">myster_gaif@protonmail.com</font>",
-  "social": "<font color="#fe8019">@Gafirchick</font>"
-}</pre>
+      <td bgcolor="#282828" style="border-radius: 8px; padding: 15px;">
+        <font color="#ebdbb2" face="Courier New, monospace" size="3">
+          <font color="#fb4934">●</font> <font color="#fabd2f">●</font> <font color="#b8bb26">●</font>
+          <br>
+          <b><font color="#b8bb26">guest@gafirchick</font></b>:<b><font color="#83a598">~</font></b>$ cat contact.json
+          <br><br>
+          <pre style="background: none; border: none; padding: 0; margin: 0;">
+<font color="#ebdbb2">{</font>
+  <font color="#83a598">"status"</font><font color="#ebdbb2">:</font> <font color="#b8bb26">"active"</font><font color="#ebdbb2">,</font>
+  <font color="#83a598">"email"</font><font color="#ebdbb2">:</font>  <font color="#83a598">"myster_gaif@protonmail.com"</font><font color="#ebdbb2">,</font>
+  <font color="#83a598">"social"</font><font color="#ebdbb2">:</font> <font color="#fe8019">"@Gafirchick"</font>
+<font color="#ebdbb2">}</font></pre>
         </font>
       </td>
     </tr>
