@@ -2,25 +2,10 @@
 
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
-<pre align="left">
-<code><span style="color: #b8bb26;">myster_gaif@gruvbox</span>:<span style="color: #83a598;">~</span>$ id
-uid=1000(<span style="color: #fabd2f;">mystergaif</span>) gid=1000(<span style="color: #fabd2f;">mystergaif</span>) groups=1000(<span style="color: #fb4934;">reverse_eng</span>),998(<span style="color: #8ec07c;">devops</span>),995(<span style="color: #d3869b;">rust</span>)
-
-<span style="color: #b8bb26;">myster_gaif@gruvbox</span>:<span style="color: #83a598;">~</span>$ cat .profile
-<span style="color: #928374;">┌──────────────────────────────────────────────────────────┐</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">USER:</span>    <span style="color: #ebdbb2;">mystergaif</span>                                     <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">ROLE:</span>    <span style="color: #ebdbb2;">Reverse Engineer | Rust / C / C++ | DevOps</span>     <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">STATUS:</span>  <span style="color: #b8bb26;">ACTIVE</span> <span style="color: #928374;">| Open for opportunities</span>                <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #928374;">------------------------------------------------------</span>  <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">FOCUS:</span>   <span style="color: #fabd2f;">Binary Analysis</span> • <span style="color: #fabd2f;">Low-level</span> • <span style="color: #fabd2f;">Vulns</span>          <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">CORE:</span>    <span style="color: #8ec07c;">Hardening Rust + Java Bytecode</span>                 <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">OS:</span>      <span style="color: #fe8019;">Linux (Primary)</span>                                <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #928374;">------------------------------------------------------</span>  <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">MAIL:</span>    <a href="mailto:myster_gaif@protonmail.com" style="color: #fabd2f; text-decoration: none;">myster_gaif@protonmail.com</a>             <span style="color: #928374;">│</span>
-<span style="color: #928374;">│</span>  <span style="color: #83a598;">TG:</span>      <a href="https://t.me/Gafirchick" style="color: #fabd2f; text-decoration: none;">t.me/Gafirchick</a>                        <span style="color: #928374;">│</span>
-<span style="color: #928374;">└──────────────────────────────────────────────────────────┘</span>
-
-<span style="color: #b8bb26;">myster_gaif@gruvbox</span>:<span style="color: #83a598;">~</span>$ <span style="text-decoration: blink;">_</span></code>
+<pre>
+<span style="color: #b8bb26;">&gt;</span> <span style="color: #83a598;">whoami:</span> <span style="color: #ebdbb2;">mystergaif | Reverse Engineer & Low-level Dev</span>
+<span style="color: #fabd2f;">&gt;</span> <span style="color: #83a598;">status:</span> <span style="color: #b8bb26;">Active</span> <span style="color: #928374;">(open to opportunities)</span>
+<span style="color: #fb4934;">&gt;</span> <span style="color: #83a598;">social:</span> <a href="mailto:myster_gaif@protonmail.com" style="color: #fabd2f; text-decoration: none;">email</a> <span style="color: #928374;">•</span> <a href="https://t.me/Gafirchick" style="color: #fabd2f; text-decoration: none;">telegram</a>
 </pre>
 
 ---
