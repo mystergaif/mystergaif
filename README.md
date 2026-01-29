@@ -8,9 +8,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,asm,linux,docker,githubactions" />
   <br><br>
-  <img src="https://cdn.worldvectorlogo.com/logos/ghidra.svg" height="60" alt="Ghidra" title="Ghidra Dragon"/> 
-  &nbsp;&nbsp;
-  <img src="https://hex-rays.com/products/ida/pix/ida_pro_logo.png" height="60" alt="IDA Pro" title="IDA Pro"/>
+  <img src="assets/ghidra.png" height="80" alt="Ghidra" title="Ghidra Dragon"/> 
 </p>
 
 > Exploring the depths of binaries, memory management, and system security.
@@ -18,7 +16,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/mystergaif/mystergaif/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mystergaif/mystergaif/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
 
