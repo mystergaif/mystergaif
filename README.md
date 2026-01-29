@@ -2,39 +2,36 @@
 
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
-# Hi, I'm mystergaif 👋
+<pre align="left">
+<code><span style="color: #b8bb26;">myster_gaif@gruvbox</span>:<span style="color: #83a598;">~</span>$ id
+uid=1000(<span style="color: #fabd2f;">mystergaif</span>) gid=1000(<span style="color: #fabd2f;">mystergaif</span>) groups=1000(<span style="color: #fb4934;">reverse_eng</span>),998(<span style="color: #8ec07c;">devops</span>),995(<span style="color: #d3869b;">rust</span>)
 
-### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
+<span style="color: #b8bb26;">myster_gaif@gruvbox</span>:<span style="color: #83a598;">~</span>$ cat .profile
+<span style="color: #928374;">┌──────────────────────────────────────────────────────────┐</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">USER:</span>    <span style="color: #ebdbb2;">mystergaif</span>                                     <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">ROLE:</span>    <span style="color: #ebdbb2;">Reverse Engineer | Rust / C / C++ | DevOps</span>     <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">STATUS:</span>  <span style="color: #b8bb26;">ACTIVE</span> <span style="color: #928374;">| Open for opportunities</span>                <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #928374;">------------------------------------------------------</span>  <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">FOCUS:</span>   <span style="color: #fabd2f;">Binary Analysis</span> • <span style="color: #fabd2f;">Low-level</span> • <span style="color: #fabd2f;">Vulns</span>          <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">CORE:</span>    <span style="color: #8ec07c;">Hardening Rust + Java Bytecode</span>                 <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">OS:</span>      <span style="color: #fe8019;">Linux (Primary)</span>                                <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #928374;">------------------------------------------------------</span>  <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">MAIL:</span>    <a href="mailto:myster_gaif@protonmail.com" style="color: #fabd2f; text-decoration: none;">myster_gaif@protonmail.com</a>             <span style="color: #928374;">│</span>
+<span style="color: #928374;">│</span>  <span style="color: #83a598;">TG:</span>      <a href="https://t.me/Gafirchick" style="color: #fabd2f; text-decoration: none;">t.me/Gafirchick</a>                        <span style="color: #928374;">│</span>
+<span style="color: #928374;">└──────────────────────────────────────────────────────────┘</span>
 
-```console
-myster_gaif@gruvbox:~$ id
-uid=1000(mystergaif) gid=1000(mystergaif) groups=1000(reverse_eng),998(devops),995(rust)
+<span style="color: #b8bb26;">myster_gaif@gruvbox</span>:<span style="color: #83a598;">~</span>$ <span style="text-decoration: blink;">_</span></code>
+</pre>
 
-myster_gaif@gruvbox:~$ cat .profile
-┌──────────────────────────────────────────────────────────┐
-│  USER:    mystergaif                                     │
-│  ROLE:    Reverse Engineer | Rust / C / C++ | DevOps     │
-│  STATUS:  ACTIVE | Open for opportunities                │
-│  ------------------------------------------------------  │
-│  FOCUS:   Binary Analysis • Low-level • Vulnerabilities  │
-│  CORE:    Hardening Rust + Java Bytecode Decompilation   │
-│  OS:      Linux (Primary)                                │
-│  ------------------------------------------------------  │
-│  MAIL:    myster_gaif@protonmail.com                     │
-│  TG:      t.me/Gafirchick                                │
-└──────────────────────────────────────────────────────────┘
-
-myster_gaif@gruvbox:~$ _
-```
 ---
 
 ## 🐲 Binary Analysis & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,asm,linux,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,asm,linux,docker,githubactions&theme=dark" />
   <br><br>
   <img src="assets/ghidra.png" height="80" alt="Ghidra" title="Ghidra Dragon"/> 
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java Coffee" />
+  <img src="https://img.shields.io/badge/Java-FABD2F?style=for-the-badge&logo=openjdk&logoColor=282828" height="40" alt="Java Coffee" />
 </p>
 
 > Exploring the depths of binaries, memory management, and system security.
@@ -48,9 +45,9 @@ myster_gaif@gruvbox:~$ _
 
 ## 📊 Performance & Stats
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mystergaif&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mystergaif&show_icons=true&theme=gruvbox&count_private=true" alt="Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mystergaif&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mystergaif&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
