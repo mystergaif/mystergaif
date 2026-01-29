@@ -2,21 +2,30 @@
 
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
-# [ TERMINAL ] - Session: mystergaif@archlinux
-# ---------------------------------------------------------
-# Colors: [ ● #fb4934 ] [ ● #b8bb26 ] [ ● #fabd2f ] [ ● #83a598 ]
-# ---------------------------------------------------------
+# Hi, I'm mystergaif 👋
 
-┌──(mystergaif㉿devops)-[~]
-└─$ cat profile.json << EOF
-{
-  "status":  "ACTIVE | Looking for Opportunities",
-  "mail":    "myster_gaif@protonmail.com",
-  "connect": "t.me/Gafirchick",
-  "stack":   ["Rust", "C/C++", "DevOps", "RE"],
-  "shell":   "/usr/bin/zsh"
-}
-EOF
+### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
+
+```console
+myster_gaif@gruvbox:~$ id
+uid=1000(mystergaif) gid=1000(mystergaif) groups=1000(reverse_eng),998(devops),995(rust)
+
+myster_gaif@gruvbox:~$ cat .profile
+┌──────────────────────────────────────────────────────────┐
+│  USER:    mystergaif                                     │
+│  ROLE:    Reverse Engineer | Rust / C / C++ | DevOps     │
+│  STATUS:  ACTIVE | Open for opportunities                │
+│  ------------------------------------------------------  │
+│  FOCUS:   Binary Analysis • Low-level • Vulnerabilities  │
+│  CORE:    Hardening Rust + Java Bytecode Decompilation   │
+│  OS:      Linux (Primary)                                │
+│  ------------------------------------------------------  │
+│  MAIL:    myster_gaif@protonmail.com                     │
+│  TG:      t.me/Gafirchick                                │
+└──────────────────────────────────────────────────────────┘
+
+myster_gaif@gruvbox:~$ _
+```
 ---
 
 ## 🐲 Binary Analysis & Tools
