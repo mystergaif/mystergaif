@@ -2,36 +2,21 @@
 
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
-<div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-    <tr>
-      <td bgcolor="#282828" style="border-radius: 8px; padding: 15px 20px; border: 1px solid #504945;">
-        <font color="#ebdbb2" face="Courier New, monospace" size="3">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr>
-              <td align="left">
-                <font color="#fb4934">●</font> <font color="#fabd2f">●</font> <font color="#b8bb26">●</font>
-              </td>
-              <td align="right">
-                <font color="#ebdbb2">[<font color="#fe8019">X</font>]</font>
-              </td>
-            </tr>
-          </table>
-          <br>
-          <pre style="background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
-<font color="#b8bb26">┌─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">┐</font>
-<font color="#b8bb26">│</font>  <font color="#b8bb26">m.g.</font>                                                      <font color="#b8bb26">│</font>
-<font color="#b8bb26">│</font>  <font color="#b8bb26">███</font> <font color="#fabd2f">███</font>  <font color="#b8bb26">STATUS</font>: <font color="#b8bb26">ACTIVE</font> <font color="#83a598">| Job Opportunities</font>               <font color="#b8bb26">│</font>
-<font color="#b8bb26">│</font>  <font color="#b8bb26">█</font><font color="#fabd2f">█</font><font color="#b8bb26">█</font> <font color="#fabd2f">█</font><font color="#b8bb26">█</font><font color="#fabd2f">█</font>  <font color="#83a598">MAIL</font>:    <font color="#ebdbb2">myster_gaif@protonmail.com</font>           <font color="#b8bb26">│</font>
-<font color="#b8bb26">│</font>  <font color="#b8bb26">███</font> <font color="#fabd2f">█</font><font color="#b8bb26">█</font><font color="#fabd2f">█</font>  <font color="#fe8019">CONNECT</font>: <font color="#fe8019">t.me/Gafirchick</font>                     <font color="#b8bb26">│</font>
-<font color="#b8bb26">│</font>                                                               <font color="#b8bb26">│</font>
-<font color="#b8bb26">└─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">┘</font>
-</pre>
-        </font>
-      </td>
-    </tr>
-  </table>
-</div>
+# [ TERMINAL ] - Session: mystergaif@archlinux
+# ---------------------------------------------------------
+# Colors: [ ● #fb4934 ] [ ● #b8bb26 ] [ ● #fabd2f ] [ ● #83a598 ]
+# ---------------------------------------------------------
+
+┌──(mystergaif㉿devops)-[~]
+└─$ cat profile.json << EOF
+{
+  "status":  "ACTIVE | Looking for Opportunities",
+  "mail":    "myster_gaif@protonmail.com",
+  "connect": "t.me/Gafirchick",
+  "stack":   ["Rust", "C/C++", "DevOps", "RE"],
+  "shell":   "/usr/bin/zsh"
+}
+EOF
 ---
 
 ## 🐲 Binary Analysis & Tools
