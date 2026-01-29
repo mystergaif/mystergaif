@@ -16,7 +16,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/mystergaif/mystergaif/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mystergaif/mystergaif/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
