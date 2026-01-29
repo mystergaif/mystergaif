@@ -2,6 +2,10 @@
 
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
+> [!IMPORTANT]
+> **SYSTEM STATUS:** `Looking for job opportunities`  
+> **CONNECT:** [t.me/Gafirchick](https://t.me/Gafirchick)
+
 ---
 
 ## 🐲 Binary Analysis & Tools
