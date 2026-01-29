@@ -6,9 +6,11 @@
 
 ## 🐲 Binary Analysis & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,asm,linux,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,asm,linux,docker,githubactions" />
   <br><br>
   <img src="assets/ghidra.png" height="80" alt="Ghidra" title="Ghidra Dragon"/> 
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java Coffee" />
 </p>
 
 > Exploring the depths of binaries, memory management, and system security.
@@ -31,5 +33,6 @@
 
 ### ⚡ Quick Info
 - 🦀 **Currently:** Hardening my Rust skills
+- ☕ **Java:** Decompiling and analyzing bytecode
 - 🔍 **Focus:** Low-level development & Vulnerability research
 - 🐧 **OS:** Linux is my primary environment
