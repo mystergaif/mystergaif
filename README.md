@@ -4,7 +4,8 @@
 
 > [!IMPORTANT]
 > **SYSTEM STATUS:** `Looking for job opportunities`  
-> **CONNECT:** [t.me/Gafirchick](https://t.me/Gafirchick)
+> **CONNECT:** [t.me/Gafirchick](https://t.me/Gafirchick) 
+> **MAIL:** `myster_gaif@protonmail.com`
 
 ---
 
