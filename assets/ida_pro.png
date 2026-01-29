@@ -1,0 +1,286 @@
+<!doctype html><html><head>
+    <meta charset="utf-8">
+    <title>404 - page not found</title>
+    
+    <link rel="shortcut icon" href="https://hex-rays.com/hubfs/Ico-logo.png">
+    <meta name="description" content="Disassemble, decompile and debug with IDA">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:description" content="">
+    <meta property="og:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://hex-rays.com/hubfs/hub_generated/template_assets/1/92947691201/1748869255562/template_main.min.css">
+<link rel="stylesheet" href="https://hex-rays.com/hubfs/hub_generated/template_assets/1/92947691196/1744246078901/template_theme.min.css">
+<link rel="stylesheet" href="https://hex-rays.com/hubfs/hub_generated/template_assets/1/100630944975/1744246087095/template_system_pages.min.css">
+<style>
+  @font-face {
+    font-family: "Inter";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Inter/700.woff2") format("woff2"), url("/_hcms/googlefonts/Inter/700.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Inter";
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Inter/300.woff2") format("woff2"), url("/_hcms/googlefonts/Inter/300.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Inter";
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Inter/500.woff2") format("woff2"), url("/_hcms/googlefonts/Inter/500.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Inter";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Inter/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Inter/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Inter";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Inter/700.woff2") format("woff2"), url("/_hcms/googlefonts/Inter/700.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Ubuntu Mono";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Ubuntu_Mono/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Ubuntu_Mono/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Ubuntu Mono";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Ubuntu_Mono/700.woff2") format("woff2"), url("/_hcms/googlefonts/Ubuntu_Mono/700.woff") format("woff");
+  }
+  @font-face {
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/IBM_Plex_Mono/regular.woff2") format("woff2"), url("/_hcms/googlefonts/IBM_Plex_Mono/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "IBM Plex Mono";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/IBM_Plex_Mono/700.woff2") format("woff2"), url("/_hcms/googlefonts/IBM_Plex_Mono/700.woff") format("woff");
+  }
+</style>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+
+    
+<!--  Added by GoogleAnalytics4 integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+var useGoogleConsentModeV2 = true;
+var waitForUpdateMillis = 1000;
+
+
+if (!window._hsGoogleConsentRunOnce) {
+  window._hsGoogleConsentRunOnce = true;
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': waitForUpdateMillis
+  });
+
+  if (useGoogleConsentModeV2) {
+    _hsp.push(['useGoogleConsentModeV2'])
+  } else {
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      var hasAnalyticsConsent = consent && (consent.allowed || (consent.categories && consent.categories.analytics));
+      var hasAdsConsent = consent && (consent.allowed || (consent.categories && consent.categories.advertisement));
+
+      gtag('consent', 'update', {
+        'ad_storage': hasAdsConsent ? 'granted' : 'denied',
+        'analytics_storage': hasAnalyticsConsent ? 'granted' : 'denied',
+        'ad_user_data': hasAdsConsent ? 'granted' : 'denied',
+        'ad_personalization': hasAdsConsent ? 'granted' : 'denied'
+      });
+    }]);
+  }
+}
+
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTQ1Zm', true);
+gtag('config', 'G-Y2G1VBHRDB');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y2G1VBHRDB"></script>
+
+<!-- /Added by GoogleAnalytics4 integration -->
+
+    <link rel="canonical" href="https://hex-rays.com/404">
+
+<!-- Hotjar Tracking Code for https://hex-rays.com -->
+<script>
+  $(document).ready(function() { 
+    if ($('.hs-inline-edit').length === 0) {
+      (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:5130713,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    }
+  });
+</script>
+<link rel="stylesheet" href="https://sets.hugeicons.com/7v2rm862ty6.css" crossorigin="anonymous">
+<meta property="og:url" content="https://hex-rays.com/404">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+  <meta name="generator" content="HubSpot"></head>
+<body>
+  <div class="system-container">
+    <img src="https://hex-rays.com/hubfs/website-resources/images/404.png" alt="404 - Page not found">
+    <div id="hs_cos_wrapper_cta" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="buttons-wrapper buttons-wrapper-cta">
+  <div class="buttons">
+    
+    
+    
+    
+    <a href="https://hex-rays.com" class="secondary-button  ">
+      Back to home page
+      
+    </a>
+    
+    
+  </div>
+</div>
+
+<style>
+  @media (max-width: 767px) {
+    .buttons-wrapper-cta {
+      padding: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+    }
+  }
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .buttons-wrapper-cta {
+      padding: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+    } 
+  }
+  @media (min-width: 1024px) {
+    .buttons-wrapper-cta {
+      padding: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+    }
+  }
+
+  .buttons-wrapper-cta .buttons {
+      
+    justify-content: center;
+    
+  }
+</style></div>
+  </div>
+  
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://hex-rays.com/hubfs/hub_generated/template_assets/1/98328955327/1744246086180/template_main.min.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/hex-rays.com\/404"]);
+_hsq.push(["setPageId", ""]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": null,
+    "legacyPageId": null,
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": null,
+    "languageCode": "en",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/143552897.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "3ec5537f-a1f5-406b-97c1-d41e186ab1cc",
+    ticks: 1767500154146,
+    page_id: 0,
+    
+    content_group_id: 0,
+    portal_id: 143552897,
+    app_hs_base_url: "https://app-eu1.hubspot.com",
+    cp_hs_base_url: "https://cp-eu1.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    
+    analytics_page_id: "null",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.432/js/index.js"></script>
+
+
+
+
+
+</body></html>
