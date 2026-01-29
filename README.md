@@ -2,11 +2,26 @@
 
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
-> [!IMPORTANT]
-> **SYSTEM STATUS:** `Looking for job opportunities`  
-> **CONNECT:** [t.me/Gafirchick](https://t.me/Gafirchick) 
-> **MAIL:** `myster_gaif@protonmail.com`
-
+<div align="left">
+  <table border="0">
+    <tr>
+      <td bgcolor="#282828">
+        <font color="#ebdbb2" face="Courier New, monospace">
+          <p>
+            <font color="#fb4934">●</font> <font color="#fabd2f">●</font> <font color="#b8bb26">●</font><br>
+            <b><font color="#b8bb26">guest@gafirchick</font></b>:<b><font color="#83a598">~</font></b>$ cat contact.json
+          </p>
+          <pre align="left">
+{
+  "status": "<font color="#b8bb26">active</font>",
+  "email":  "<font color="#83a598">myster_gaif@protonmail.com</font>",
+  "social": "<font color="#fe8019">@Gafirchick</font>"
+}</pre>
+        </font>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🐲 Binary Analysis & Tools
