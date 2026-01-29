@@ -26,7 +26,7 @@
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mystergaif&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=mystergaif&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-git-main-jasonlongs-projects.vercel.app/?user=mystergaif&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
