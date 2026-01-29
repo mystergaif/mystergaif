@@ -8,9 +8,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,asm,linux,docker,githubactions" />
   <br><br>
-  <img src="assets/ghidra.png" height="60" alt="Ghidra" title="Ghidra Dragon"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/ghidra.svg" height="60" alt="Ghidra" title="Ghidra Dragon"/> 
   &nbsp;&nbsp;
-  <img src="assets/ida_pro.png" height="60" alt="IDA Pro" title="IDA Pro with Cigar"/>
+  <img src="https://hex-rays.com/products/ida/pix/ida_pro_logo.png" height="60" alt="IDA Pro" title="IDA Pro"/>
 </p>
 
 > Exploring the depths of binaries, memory management, and system security.
@@ -24,9 +24,9 @@
 
 ## 📊 Performance & Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mystergaif&show_icons=true&theme=radical&count_private=true" alt="Mystergaif's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mystergaif&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystergaif&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mystergaif&theme=radical" alt="Streak" />
 </p>
 
 ---
