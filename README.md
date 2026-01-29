@@ -3,20 +3,30 @@
 ### 🛠 Reverse Engineer | Rust / C / C++ Developer | DevOps
 
 <div align="left">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
-      <td bgcolor="#282828" style="border-radius: 8px; padding: 15px;">
+      <td bgcolor="#282828" style="border-radius: 8px; padding: 15px 20px; border: 1px solid #504945;">
         <font color="#ebdbb2" face="Courier New, monospace" size="3">
-          <font color="#fb4934">●</font> <font color="#fabd2f">●</font> <font color="#b8bb26">●</font>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="left">
+                <font color="#fb4934">●</font> <font color="#fabd2f">●</font> <font color="#b8bb26">●</font>
+              </td>
+              <td align="right">
+                <font color="#ebdbb2">[<font color="#fe8019">X</font>]</font>
+              </td>
+            </tr>
+          </table>
           <br>
-          <b><font color="#b8bb26">guest@gafirchick</font></b>:<b><font color="#83a598">~</font></b>$ cat contact.json
-          <br><br>
-          <pre style="background: none; border: none; padding: 0; margin: 0;">
-<font color="#ebdbb2">{</font>
-  <font color="#83a598">"status"</font><font color="#ebdbb2">:</font> <font color="#b8bb26">"active"</font><font color="#ebdbb2">,</font>
-  <font color="#83a598">"email"</font><font color="#ebdbb2">:</font>  <font color="#83a598">"myster_gaif@protonmail.com"</font><font color="#ebdbb2">,</font>
-  <font color="#83a598">"social"</font><font color="#ebdbb2">:</font> <font color="#fe8019">"@Gafirchick"</font>
-<font color="#ebdbb2">}</font></pre>
+          <pre style="background: none; border: none; padding: 0; margin: 0; line-height: 1.2;">
+<font color="#b8bb26">┌─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">┐</font>
+<font color="#b8bb26">│</font>  <font color="#b8bb26">m.g.</font>                                                      <font color="#b8bb26">│</font>
+<font color="#b8bb26">│</font>  <font color="#b8bb26">███</font> <font color="#fabd2f">███</font>  <font color="#b8bb26">STATUS</font>: <font color="#b8bb26">ACTIVE</font> <font color="#83a598">| Job Opportunities</font>               <font color="#b8bb26">│</font>
+<font color="#b8bb26">│</font>  <font color="#b8bb26">█</font><font color="#fabd2f">█</font><font color="#b8bb26">█</font> <font color="#fabd2f">█</font><font color="#b8bb26">█</font><font color="#fabd2f">█</font>  <font color="#83a598">MAIL</font>:    <font color="#ebdbb2">myster_gaif@protonmail.com</font>           <font color="#b8bb26">│</font>
+<font color="#b8bb26">│</font>  <font color="#b8bb26">███</font> <font color="#fabd2f">█</font><font color="#b8bb26">█</font><font color="#fabd2f">█</font>  <font color="#fe8019">CONNECT</font>: <font color="#fe8019">t.me/Gafirchick</font>                     <font color="#b8bb26">│</font>
+<font color="#b8bb26">│</font>                                                               <font color="#b8bb26">│</font>
+<font color="#b8bb26">└─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">─</font><font color="#83a598">─</font><font color="#b8bb26">┘</font>
+</pre>
         </font>
       </td>
     </tr>
