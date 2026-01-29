@@ -26,7 +26,7 @@
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mystergaif&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <br>
-  <img src="https://github-readme-streak-stats-git-main-jasonlongs-projects.vercel.app/?user=mystergaif&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mystergaif&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -36,3 +36,4 @@
 - ☕ **Java:** Analyzing bytecode & decompilation
 - 🔍 **Focus:** Low-level development & Vulnerability research
 - 🐧 **OS:** Linux is my primary environment
+- 🛠 **RE:** Cracking binaries and analyzing shellcode
