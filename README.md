@@ -7,7 +7,7 @@
 <span style="color: #fabd2f;">&gt;</span> <span style="color: #83a598;">status:</span> <span style="color: #b8bb26;">Active</span> <span style="color: #928374;">(open to opportunities)</span>
 <span style="color: #fb4934;">&gt;</span> <span style="color: #83a598;">social:</span> <a href="mailto:myster_gaif@protonmail.com" style="color: #fabd2f; text-decoration: none;">email</a> <span style="color: #928374;">•</span> <a href="https://t.me/Gafirchick" style="color: #fabd2f; text-decoration: none;">telegram</a>
 </pre>
-
+[![USDT](https://img.shields.io/badge/USDT%20(ERC--20)-0xee98...8141-ebdbb2?style=flat-square&labelColor=282828&color=8ec07c&logo=ethereum)](https://etherscan.io/address/0xee985a9487407c527d873af7a226767e5bb48141)
 ---
 
 ## 🐲 Binary Analysis & Tools
